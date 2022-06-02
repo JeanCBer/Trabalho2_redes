@@ -46,7 +46,6 @@
 | Roteador-Itapejara    | Se0/0/1   |200.200.54.234| 255.255.255.252|                |2001:DB8:ACAD:36FF::2:2/112|         EUI-64          |
 | Roteador-Itapejara    | Fa0/1     |200.200.54.241| 255.255.255.252|                |2001:DB8:ACAD:36FF::4:1/112|         EUI-64          |
 | Roteador-Coronel      | Fa0/0     |200.200.54.97 | 255.255.255.224|                |2001:DB8:ACAD:3602::1/64   |          FE80::1        |
-| Roteador-Coronel      | Se0/0/1 |      |                |                |              |                |
 | Roteador-Coronel      | Fa0/1     |200.200.54.242| 255.255.255.252|                |2001:DB8:ACAD:36FF::4:2/112|          EUI-64         |
 
 ## Tarefa 3: Tabela de Roteamento
