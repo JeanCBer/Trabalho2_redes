@@ -1,9 +1,9 @@
 # Trabalho 2: Integração de habilidades - 2022/1
-**Disciplina: Redes de Computadores**
+**Disciplina: Redes de Computadores 1**
 
-**Curso: Engenharia de Computação / Elétrica**
+**Curso: Engenharia Elétrica**
 
-**Nome/RA:**
+**Nome/RA:Jean Carlos Berwanger / 1809954**
 
 
 ## Tarefa 1:  Sub-Redes
