@@ -144,17 +144,17 @@
 |2001:DB8:ACAD:36FF::2:0/112 |2001:DB8:ACAD:36FF::4:1/112|  Fa0/1             |
 |2001:DB8:ACAD:36FF::3:0/112 |2001:DB8:ACAD:36FF::4:1/112|  Fa0/1             |
 ## Topologia - Packet Tracer
-- [ ] ![Trabalho2-Topologia-NomeAluno](trabalho2-topologia-NomeAluno.pkt)
+- [ ] ![Trabalho2-Topologia-NomeAluno](trabalho2-topologia-JeanCarlosBerwanger.pkt)
 
 
 ## Arquivos de Configuração dos Dispositivos Intermediários (roteadores e switches)
-- [ ] ![Roteador Pato Branco](r-pb-nnn.pkt)
-- [ ] ![Roteador Francisco Beltrão](r-fb-nnn.pkt)
-- [ ] ![Roteador Vitorino](r-vit-nnn.pkt)
-- [ ] ![Roteador Itapejara D'Oeste](r-ita-nnn.pkt)
-- [ ] ![Roteador Coronel Vivida](r-cv-nnn.pkt)
-- [ ] ![Switch Pato Branco](sw-pb-nnn.pkt)
-- [ ] ![Switch Francisco Beltrão](sw-fb-nnn.pkt)
-- [ ] ![Switch Coronel Vivida](sw-cv-nnn.pkt)
+- [ ] ![Roteador Pato Branco](r-pb-jcb.txt)
+- [ ] ![Roteador Francisco Beltrão](r-fb-jcb.txt)
+- [ ] ![Roteador Vitorino](r-vit-jcb.txt)
+- [ ] ![Roteador Itapejara D'Oeste](r-ita-jcb.txt)
+- [ ] ![Roteador Coronel Vivida](r-cv-jcb.txt)
+- [ ] ![Switch Pato Branco](sw-pb-jcb.txt)
+- [ ] ![Switch Francisco Beltrão](sw-fb-jcb.txt)
+- [ ] ![Switch Coronel Vivida](sw-cv-jcb.txt)
 
 
