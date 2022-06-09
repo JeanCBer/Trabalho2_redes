@@ -144,7 +144,7 @@
 |2001:DB8:ACAD:36FF::2:0/112 |2001:DB8:ACAD:36FF::4:1/112|  Fa0/1             |
 |2001:DB8:ACAD:36FF::3:0/112 |2001:DB8:ACAD:36FF::4:1/112|  Fa0/1             |
 ## Topologia - Packet Tracer
-- [ ] ![Trabalho2-Topologia-JeanCarlosBerwanger](trabalho2-topologia-JeanCarlosBerwanger.pkt)
+- [ ] ![Trabalho2-Topologia-JeanCarlosBerwanger](Trabalho2-Topologia-JeanCarlosBerwanger.pkt)
 
 
 ## Arquivos de Configuração dos Dispositivos Intermediários (roteadores e switches)
