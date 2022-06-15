@@ -64,13 +64,11 @@ interface FastEthernet0/1
 interface Serial0/0/0
  description pb-vit
  ip address 200.200.54.225 255.255.255.252
- ipv6 address FE80::1 link-local
  ipv6 address 2001:DB8:ACAD:36FF::1/112
 !
 interface Serial0/0/1
  description ita-pb
  ip address 200.200.54.238 255.255.255.252
- ipv6 address FE80::1 link-local
  ipv6 address 2001:DB8:ACAD:36FF::3:2/112
  clock rate 2000000
 !
@@ -99,7 +97,7 @@ ip access-list extended sl_def_acl
  deny tcp any any eq 22
  permit tcp any any eq 22
 !
-banner motd ^CRoteador Pato Branco.^C
+banner motd ^CRoteador Pato Branco.Atencao acesso restrito a pessoas autorizadas!Administrador: Jean Carlos Berwanger (jcberwanger@gmail.com).  ^C
 !
 !
 !
