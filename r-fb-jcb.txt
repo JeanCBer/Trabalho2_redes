@@ -64,13 +64,11 @@ interface FastEthernet0/1
 interface Serial0/0/0
  description fb-ita
  ip address 200.200.54.233 255.255.255.252
- ipv6 address FE80::1 link-local
  ipv6 address 2001:DB8:ACAD:36FF::2:1/112
 !
 interface Serial0/0/1
  description vit-fb
  ip address 200.200.54.230 255.255.255.252
- ipv6 address FE80::1 link-local
  ipv6 address 2001:DB8:ACAD:36FF::1:2/112
  clock rate 2000000
 !
@@ -99,7 +97,7 @@ ip access-list extended sl_def_acl
  deny tcp any any eq 22
  permit tcp any any eq 22
 !
-banner motd ^CRoteador Francisco Beltro.^C
+banner motd ^CRoteador Francisco Beltrao.Atencao acesso restrito a pessoas autorizadas!Administrador: Jean Carlos Berwanger (jcberwanger@gmail.com).  ^C
 !
 !
 !
